@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_08fcd94d221f14f1e17051a587c13794fa2f5b4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_e58177e1119e55d07f10b27b61c658ecc9ffd4c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/perna/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-26.0.0-alpha1_4584be4662c8b421cd7d889c7dc7504a7cbaef02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_7312992cdcf0846b7670438530352449a24fc577.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-26.0.0-alpha1_af11706f6cc89270bcef00c252bdb500ad502766.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-26.0.0-alpha1_5bba7a95391b12a9dd159aa281cf7f6cc2f0e20d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/exploded-aar/Groceries/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eb6078500d1af5e7b663871706674405c57292a3">
+        <dex dex="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/Groceries-runtime-unspecified_7627bf4cffb006212393ba910e5b91ed8d4b5f5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-26.0.0-alpha1_2f5e6fb430be86204c3b6cb879d978db4a36e904.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-26.0.0-alpha1_8fa252eb636df6d7637b608d3f3a505b1ad11363.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-26.0.0-alpha1_8a97bafaaa5fe6e00b2edb19b136112130629aaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-26.0.0-alpha1_5c53a9a90ce9b790036dab13259045ccf89e465c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-26.0.0-alpha1_cc6505c1c01759d0a6a86ae10e132ed7bbf7e216.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_31c98e838f87a3b0cd092b2e66a42f98b20c60c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/exploded-aar/Groceries/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_abe8d8de89e3ba70d862e8a6f25bffb415d82cec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-26.0.0-alpha1_edf70243737a419cdf974eb83558136ec494d693.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/perna/code4fun/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-26.0.0-alpha1_ee5aa10ba9d1d9bb32805307b7c3164d7e2ed3ae.jar" />
+    </item>
+
+</items>
